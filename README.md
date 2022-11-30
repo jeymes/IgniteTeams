@@ -23,11 +23,9 @@
 <div>
   <h2>Fotos do APP</h2>
 <div display='flex' >
-  <img width='150px' src="https://user-images.githubusercontent.com/87048226/200083832-e0e2aac3-7b7b-4fe5-9523-132daa5c88ff.jpg"/>
-  <img width='150px' src="https://user-images.githubusercontent.com/87048226/200084267-f6450c6c-97f6-4bbe-82bd-da4d2a365320.jpg" />
-  <img width='150px' src="https://user-images.githubusercontent.com/87048226/200084316-9caea805-7d04-4611-b093-ee6c25a66ece.jpg" />
-  <img width='150px' src="https://user-images.githubusercontent.com/87048226/200084364-f27ccad0-c270-450c-a278-04cdf3b32ee4.jpg" />
-  <img width='150px' src="https://user-images.githubusercontent.com/87048226/200084506-e712eb70-37d0-462d-a4fa-cbb0aefe0ee2.jpg" />
+  <img width='150px' src="https://user-images.githubusercontent.com/87048226/204933186-7ad2d149-9294-4be0-8c1e-70859810344d.jpg"/>
+  <img width='150px' src="https://user-images.githubusercontent.com/87048226/204933238-25e02248-a7a5-480e-bdd4-997309205d7f.jpg" />
+  <img width='150px' src="https://user-images.githubusercontent.com/87048226/204933265-48215427-c1f0-4e12-8115-08034f3fc4a4.jpg" />
 </div>
   
  
